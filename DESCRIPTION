@@ -10,3 +10,5 @@ Imports: stats
 License: GPL-3
 Encoding: UTF-8
 NeedsCompilation: yes
+URL: https://github.com/ihsajal/QBL
+BugReports: https://github.com/ihsajal/QBL/issues
