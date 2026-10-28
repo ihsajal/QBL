@@ -1,0 +1,4 @@
+export(QBL.CC)
+importFrom(hapassoc,pre.hapassoc)
+importFrom(stats,cor,quantile,sd,var)
+useDynLib(QBL, .registration = TRUE)

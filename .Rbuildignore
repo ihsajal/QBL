@@ -1,0 +1,6 @@
+^QBL\.Rproj$
+^\.Rproj\.user$
+^\.gitignore$
+^\.DS_Store$
+^QBL_.*[.]tar[.]gz$
+^QBL[.]Rcheck$

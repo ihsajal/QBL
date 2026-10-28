@@ -1,0 +1,12 @@
+Package: QBL
+Type: Package
+Title: Quantitative Bayesian Lasso for Bivariate Haplotype Association
+Version: 1.0.0
+Author: Ibrahim Hossain Sajal, Swati Biswas, Shili Lin
+Maintainer: Ibrahim Hossain Sajal <ihossain2@isrt.ac.bd>
+Description: Implements quantitative Bayesian lasso for haplotype association analysis with two correlated continuous phenotypes. Takes a dataset containing the two phenotypes and SNP genotypes, with no environmental covariates. Uses Markov chain Monte Carlo sampling to estimate posterior distributions of regression coefficients and haplotype frequencies. Provides posterior means, credible intervals, and Bayes factors for individual haplotype and overall haplotype association.
+Depends: R (>= 3.5.0), hapassoc
+Imports: stats
+License: GPL-3
+Encoding: UTF-8
+NeedsCompilation: yes

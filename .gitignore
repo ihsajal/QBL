@@ -1,0 +1,15 @@
+.Rproj.user
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+.DS_Store
+src/*.o
+src/*.so
+src/*.dll
+src/*.dylib
+src/symbols.rds
+QBL_*.tar.gz
+*.Rcheck/
+.httr-oauth
+.quarto
